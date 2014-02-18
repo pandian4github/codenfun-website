@@ -1,0 +1,82 @@
+body
+{
+	background:url("images/back1.png");
+}
+#toprow
+{
+}
+.hidden
+{
+	display: none;
+}
+.visible
+{
+	display: block;
+}
+#main-content
+{
+	background:whitesmoke;
+	padding:20px;
+	padding-left:30px;
+	border:1px solid black;
+	border-radius: 25px;
+	margin-top: 10px;
+}
+hr
+{
+	border-color:rgb(38,60,0);
+}
+#footer
+{
+	margin-top: 20px;
+	line-height:90%;
+}
+#footer a
+{
+	color:black;
+	font-weight: bolder;
+}
+#footer a:hover
+{
+	text-decoration: none;
+	color:cyan;
+}
+
+#centertitle
+{
+	color:black;
+	font-family: bold;
+}
+#navbar
+{
+	padding-left: 270px;
+}
+#main-content
+{
+	width: 800px;
+	height: 500px;
+	background-color: whitesmoke;
+}
+
+#entryform
+{
+	margin:20px;
+	padding-left: 15%;
+}
+#entryform .control-label
+{
+	font-size:1.1em;
+	font-weight: bold;
+}
+#entryform input,select
+{
+	border:1px solid black;
+}
+#entryform select:hover
+{
+	border:1px solid blue;
+}
+#entryform input:hover
+{
+	border:1px solid blue;
+}

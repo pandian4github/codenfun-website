@@ -1,0 +1,37 @@
+#main-content
+{
+	width: 800px;
+	height: 800px;
+	background-color: whitesmoke;
+}
+
+#contactusform
+{
+	float:left;
+	padding-left: 80px;
+	font-size: 1.5em;
+}
+#contactusform label
+{
+	font-family: bold;
+	font-weight: bolder;
+	font-size: 1em;
+}
+#contactusform input
+{
+	border: 1px grey solid;
+	font-size: 0.8em;
+}
+textarea
+{
+	border: 1px grey solid;	
+	font-size: 0.8em;
+}
+#contactusform input:hover
+{
+	border: 1px black solid;
+}
+textarea:hover
+{
+	border: 1px black solid;	
+}

@@ -1,0 +1,16 @@
+#left
+{
+}
+#right
+{
+}
+#ranktable th {
+	font-size: 1.2em;
+	padding: 25px;
+}
+#ranktable td {
+	padding: 20px;
+}
+#leveltextbox {
+	width: 20px;
+}
